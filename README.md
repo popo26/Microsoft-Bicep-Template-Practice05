@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-gb/training/modules/child-extension-bicep-templates/4-exercise-define-child-resources?pivots=cli
